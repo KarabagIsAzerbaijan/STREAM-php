@@ -27,6 +27,7 @@ source_urls = [
     "http://158.101.222.193:88/georgia_play.php?id=scifi",
     "http://158.101.222.193:88/georgia_play.php?id=kinokomediya",
     "http://158.101.222.193:88/georgia_play.php?id=nashanovoekino",
+    "http://158.101.222.193:88/georgia_play.php?id=radnoekino",
 ]
 
 # Faylların yazılacağı qovluq
