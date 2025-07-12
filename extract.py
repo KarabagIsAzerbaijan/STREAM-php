@@ -19,7 +19,13 @@ source_urls = [
     "http://158.101.222.193:88/georgia_play.php?id=kinosemya",
     "http://158.101.222.193:88/georgia_play.php?id=kinopremyerahd",
     "http://158.101.222.193:88/georgia_play.php?id=interesnoetv",
-    ]
+    "http://158.101.222.193:88/georgia_play.php?id=indiyskoekino",
+    "http://158.101.222.193:88/georgia_play.php?id=zeetv",
+    "http://158.101.222.193:88/georgia_play.php?id=kinoseria",
+    "http://158.101.222.193:88/georgia_play.php?id=black",
+    "http://158.101.222.193:88/georgia_play.php?id=red",
+    "http://158.101.222.193:88/georgia_play.php?id=scifi",    
+]
 
 # Faylların yazılacağı qovluq
 output_folder = "output"
