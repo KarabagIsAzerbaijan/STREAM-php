@@ -10,6 +10,7 @@ source_urls = [
     "http://158.101.222.193:88/georgia_play.php?id=fenikspluskino",
     "http://158.101.222.193:88/georgia_play.php?id=24techno",
     "http://158.101.222.193:88/georgia_play.php?id=365day",
+    "http://158.101.222.193:88/georgia_play.php?id=amedia",
     "http://158.101.222.193:88/georgia_play.php?id=amedia2",
     "http://158.101.222.193:88/georgia_play.php?id=amediahit",
     "http://158.101.222.193:88/georgia_play.php?id=amediapremium",
