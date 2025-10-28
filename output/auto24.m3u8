@@ -1,2 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2085600,RESOLUTION=1280x720
+http://tbs01-edge17.itdc.ge/auto24/tracks-v1a1/mono.m3u8?token=cPiNwaj47KnaHd5vJDiY8mHYXXirlZczfCf8kci7uyU-JGGlfNut4is0rwewtFny3A6dXC7C45ld4obYulOa8ttyfnQw7eoQj9zO6zmmAGThrsKq35v4-sFjXcXknIldKfivsvNta5yMRvpBivJzsvLpONN4w0eM7xBedlk6tUKsqrhPUXnet7JL6l9MNIClVGEVeTM8cTE9E7dHQTSaYyCnqvKa6-SVgSrSj6JhwNOlU3D8JLwegUJCnPw51HW4
